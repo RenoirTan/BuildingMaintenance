@@ -1,0 +1,16 @@
+This text file lists all the required items used to run the final code.
+
+Files used in the final code:
+Building Maintenance.docx
+requirements.txt
+sum2finalRenoir.py
+timetable1.csv
+timetable2.csv
+timetable3.csv
+
+All the files listed above should be found in the summative2renoir.zip folder, which can be extracted into another file.
+The final code is name sum2finalRenoir and is a .py file.
+To allow the final code to work, place the .csv timetable file in the same folder as sum2finalRenoir.py
+
+Python modules used in the final code:
+turtles
